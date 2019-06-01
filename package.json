@@ -1,0 +1,8 @@
+{
+  "name": "custom-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/poetries/custom-cli.git",
+  "author": "poetries <jingguanliuye@gmail.com>",
+  "license": "MIT"
+}
